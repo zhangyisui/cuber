@@ -1,12 +1,12 @@
-# [魔方栈](https://huazhechen.gitee.io/cuber)
+# [魔方栈](https://cube.zhangyisui.top/)
 
 - 优美而强大的网页魔方
 
-- 地址: <https://huazhechen.gitee.io/cuber>
+- 源地址: <https://gitee.com/huazhechen/cuber>
 
   <img width="120px" src="https://gitee.com/huazhechen/cuber/raw/master/resource/icon.png"  alt="icon"/>
 
-- 使用过程中发现任何问题, 或者有任何需求和想法, 欢迎联系作者:
+- 源作者:
   > 微信: huazhechen
   >
   > QQ: 37705123
