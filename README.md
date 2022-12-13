@@ -2,16 +2,11 @@
 
 - 优美而强大的网页魔方
 
+- 项目copy自gitee
 - 源地址: <https://gitee.com/huazhechen/cuber>
 
   <img width="120px" src="https://gitee.com/huazhechen/cuber/raw/master/resource/icon.png"  alt="icon"/>
 
-- 源作者:
-  > 微信: huazhechen
-  >
-  > QQ: 37705123
-  >
-  > email: <37705123@qq.com>
 
 # 功能介绍
 
